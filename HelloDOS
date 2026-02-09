@@ -12,7 +12,6 @@ public class HelloDOS {
          N3= input.nextInt();
          System.out.println("Answer = " + Sum(N1,N2,N3));   
     }
-     
         static int Sum(int x, int y, int z) {
             int ans = x + y + z;
             return ans;
